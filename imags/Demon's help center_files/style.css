@@ -41,7 +41,7 @@ h1 {
 
 .monster {
 	width: 500px;
-	height: 451px;	
+	height: 411px;	
 	font-size: 15px;
 	float: left;
 	background-color: black;
@@ -62,11 +62,5 @@ h1 {
 }
 .angle {
 	width: 250px;
-	height: 406px;
-}
-.demon {
-	width: 303px;
-	height: 451px;
-	float: left;
-
+	height: 409px;
 }
